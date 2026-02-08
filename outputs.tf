@@ -14,12 +14,12 @@ output "ai_foundry_name" {
 }
 
 output "ai_foundry_project_id" {
-  description = "The IDs of the AI Foundry projects"
+  description = "The ID of the AI Foundry project"
   value       = module.ai_foundry.ai_foundry_project_id
 }
 
 output "ai_foundry_project_name" {
-  description = "The names of the AI Foundry projects"
+  description = "The name of the AI Foundry project"
   value       = module.ai_foundry.ai_foundry_project_name
 }
 

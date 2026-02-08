@@ -123,9 +123,10 @@ Key variables in `variables.tf`:
 The deployment provides the following outputs:
 
 - `resource_group_name`: Name of the created resource group
-- `foundry_hub_id`: ID of the AI Foundry hub
-- `foundry_hub_name`: Name of the AI Foundry hub
-- `project_ids`: IDs of the AI Foundry projects
+- `ai_foundry_id`: ID of the AI Foundry hub
+- `ai_foundry_name`: Name of the AI Foundry hub
+- `ai_foundry_project_id`: ID of the AI Foundry project
+- `ai_foundry_project_name`: Name of the AI Foundry project
 - `location`: Deployment region
 
 ## Providers
