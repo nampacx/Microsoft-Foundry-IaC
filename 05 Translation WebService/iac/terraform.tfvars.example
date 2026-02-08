@@ -1,0 +1,5 @@
+subscription_id     = "a5bcaba6-98a3-411a-88a6-bbe5a5ae97a6"
+project_name        = "translator"
+environment         = "dev"
+location            = "westeurope"
+translator_endpoint = "https://kk-tt-foundry.cognitiveservices.azure.com/"
